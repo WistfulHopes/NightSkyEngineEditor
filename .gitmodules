@@ -1,0 +1,9 @@
+[submodule "NightSkyEngineCore"]
+	path = NightSkyEngineCore
+	url = https://github.com/WistfulHopes/NightSkyEngineCore.git
+[submodule "raylib"]
+	path = raylib
+	url = https://github.com/raysan5/raylib.git
+[submodule "rres"]
+	path = rres
+	url = https://github.com/WistfulHopes/rres.git
